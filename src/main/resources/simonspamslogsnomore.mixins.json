@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "me.pompompopi.simonspamslogsnomore.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "AbstractChanneledNetworkAddonMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "ScoreboardMixin",
+    "SoundSystemMixin"
+  ]
+}
