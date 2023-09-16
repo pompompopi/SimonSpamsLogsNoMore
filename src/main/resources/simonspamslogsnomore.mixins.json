@@ -10,5 +10,8 @@
     "ClientPlayNetworkHandlerMixin",
     "ScoreboardMixin",
     "SoundSystemMixin"
+  ],
+  "mixins": [
+    "FishingBobberEntityMixin"
   ]
 }
