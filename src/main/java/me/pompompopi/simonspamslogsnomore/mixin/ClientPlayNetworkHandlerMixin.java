@@ -33,7 +33,7 @@ public class ClientPlayNetworkHandlerMixin {
   }
 
   @Inject(
-      method = "onCustomPayload",
+      method = "method_52801",
       at =
           @At(
               value = "INVOKE",
