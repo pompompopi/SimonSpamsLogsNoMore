@@ -12,6 +12,7 @@
     "SoundSystemMixin"
   ],
   "mixins": [
-    "FishingBobberEntityMixin"
+    "FishingBobberEntityMixin",
+    "YggdrasilMinecraftSessionServiceMixin"
   ]
 }
