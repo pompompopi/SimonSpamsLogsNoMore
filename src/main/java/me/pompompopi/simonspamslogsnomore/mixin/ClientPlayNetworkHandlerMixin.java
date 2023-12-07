@@ -33,7 +33,7 @@ public class ClientPlayNetworkHandlerMixin {
   }
 
   @Inject(
-      method = "method_52801",
+      method = "warnOnUnknownPayload",
       at =
           @At(
               value = "INVOKE",
